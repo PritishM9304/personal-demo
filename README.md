@@ -1,4 +1,4 @@
 # personal-demo
 This is my first personal Git for Practice.
 <br>
-Author- Pritish Mudaliar
+Author- Pritish suuuuuuuuu
